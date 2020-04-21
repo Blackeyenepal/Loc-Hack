@@ -51,7 +51,7 @@ def banner():
 www.mrarjun.epizy.com | youtube.com/Blackeyenepal 
 
 ''' + W)
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Arjun Adhikari ')
 	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
