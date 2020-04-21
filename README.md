@@ -1,8 +1,8 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
-<img src="https://img.shields.io/badge/Docker-✔-blue.svg?style=plastic">
+
+
 </p>
 
 <p align="center">
@@ -96,8 +96,8 @@ docker pull Blackeyenepal/LocHack
 ### Termux
 
 ```bash
-git clone https://github.com/Blackeyenepal/LocHack.git
-cd LocHack/
+git clone https://github.com/Blackeyenepal/Loc-Hack.git
+cd Loc-Hack/
 chmod 777 termux_install.sh
 ./termux_install.sh
 ```
@@ -166,5 +166,5 @@ docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http LocHack
 ## Demo
 
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=FEyAPjkJFrk"><img src="https://i.imgur.com/48yrleF.png"></a>
+	<a href="https://www.youtube.com/channel/UCVvKUddC7Vf-l1rKI0xMA4g"><img src="https://i.imgur.com/48yrleF.png"></a>
 </p>
